@@ -1,0 +1,181 @@
+> You are a senior product designer + creative director + full-stack engineer.
+> Build a **premium, minimal, story-driven creative agency website** for a brand called **Krilaksa**.
+
+### 1. Brand & Philosophy
+
+* Brand name: **Krilaksa**
+* Industry: Creative / Branding / Content / Digital Agency
+* Brand belief: *We create stories that shape brands*
+* Tone: Calm, confident, editorial, premium, human
+* Avoid corporate or salesy language
+* Focus on **emotion, storytelling, and trust**
+* The website should feel like a **creative studio’s notebook**, not a marketing brochure
+
+---
+
+### 2. Visual Style
+
+* Overall style: **Minimal, editorial, quiet luxury**
+* Base background: **White**
+* Text color: **Dark blue / near black**
+* Accent color: **Very minimal red (used sparingly)**
+* Lots of whitespace
+* Paper / editorial texture feel (subtle)
+* Clean typography (modern, readable, lightweight)
+* Smooth, subtle scroll animations (nothing flashy)
+
+---
+
+### 3. Website Structure (6 Pages)
+
+#### Page 1: Home
+
+Purpose: Introduce mindset before services
+Sections:
+
+* Hero line: **“We create stories that shape brands”**
+* Value sections like:
+
+  * Creative
+  * Mindset
+  * Trust
+* Each section should explain *how the brand thinks*, not what it sells
+* Soft “Learn more” interactions
+* Services appear later, subtly
+* Goal: Make visitors *feel* the brand first
+
+---
+
+#### Page 2: Services
+
+Purpose: Clearly show offerings, visually
+Services:
+
+* Editorial Shoots
+* Content Creation
+* Social Media Strategy & Management
+* E-commerce
+* Website
+* Branding
+
+Design rules:
+
+* Services shown as clean cards
+* Each service has its **own detail page**
+* Each service page includes:
+
+  * Short intro
+  * Visual blocks
+  * Bullet-style clarity
+* No heavy paragraphs
+
+---
+
+#### Page 3: Case Studies / Clients
+
+Purpose: Build credibility
+Content:
+
+* “Trusted by” brand logos at top
+* Project cards:
+
+  * Project name
+  * Short bio
+  * Services used
+  * Visual mockups (phones/cards)
+* Optional auto transitions (~3 seconds)
+* Focus on **process + outcome**, not hype
+
+---
+
+#### Page 4: Portfolio
+
+Purpose: Visual inspiration
+Features:
+
+* Image-heavy grid layout
+* Filter system:
+
+  * Industry (Fashion, Product, Jewelry, E-commerce)
+  * Type (Video, Shoot, Website, Branding, etc.)
+  * Project
+* Pinterest-style browsing
+* Minimal text
+
+---
+
+#### Page 5: About Us
+
+Purpose: Tell the story
+Style:
+
+* Story-style layout
+* Lightweight animations
+* Explains:
+
+  * Why Krilaksa exists
+  * Creative philosophy
+  * How they approach brands
+* Emotional, human, non-corporate
+
+---
+
+#### Page 6: Connect (Contact)
+
+Purpose: Friendly conversion
+Form style:
+
+* Conversational tone (not a typical form)
+* Fields:
+
+  * Name
+  * City, State, Country
+  * Services (multi-select)
+  * Timeline (ASAP / Within this month / 2–3 months / Just planning)
+  * Budget range
+  * Open message field
+* After submission:
+
+  * Message: **“We’ll get back to you”**
+* Calm, human, reassuring
+
+---
+
+### 4. Navigation & UX
+
+* Simple top navigation:
+
+  * Home
+  * Services
+  * Work
+  * Portfolio
+  * About
+  * Connect
+* Consistent across pages
+* Smooth scrolling
+* No aggressive CTAs
+* Encourage exploration, not pushing sales
+
+---
+
+### 5. Technical Expectations
+
+* SEO-friendly structure
+* Fast loading
+* Responsive on all devices
+* Clean, maintainable architecture
+* Content placeholders where needed
+* No dummy lorem ipsum — meaningful placeholders only
+
+---
+
+### 6. Final Goal
+
+Create a website that:
+
+* Feels premium and intentional
+* Builds trust silently
+* Makes visitors want to **scroll, explore, and connect**
+* Represents a creative agency that values **ideas over noise**
+
+
